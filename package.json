@@ -1,0 +1,14 @@
+{
+  "name": "lesaffre-narandiba-client-room",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static presentation for Sala Cliente Lesaffre Narandiba.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "npx serve .",
+    "start": "npx serve dist"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
